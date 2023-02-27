@@ -64,6 +64,8 @@ In the following code,
 
 [Tennis1 (typescript)](https://github.com/emilybache/Tennis-Refactoring-Kata/blob/main/typescript-jest/src/TennisGame1.ts)
 
+[Tennis rules for this kata can be found here](https://sammancoaching.org/kata_descriptions/tennis.html)
+
 ## Extract Function Example
 
 (5 min)
